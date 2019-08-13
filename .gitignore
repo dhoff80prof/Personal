@@ -26,3 +26,5 @@ hs_err_pid*
 # Unity meta and csproj files
 *.meta
 *.csproj
+*.userprefs
+*.sln
